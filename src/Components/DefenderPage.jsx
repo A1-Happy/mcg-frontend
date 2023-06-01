@@ -2,13 +2,13 @@ import {
   getOpponentStats,
   getSelfStats,
   getTargetAndRemainingBalls,
-} from "./chaserPage";
+} from "./ChaserPage";
 import { useEffect, useState } from "react";
 import {
   getBowlerPlaying,
   getBatsmenPlaying,
   checkInnings,
-} from "./chaserPage";
+} from "./ChaserPage";
 import BowlerSelector from "./BowlerSelector";
 import { handleBallSpeedSelection } from "./BowlerPage";
 import { showChoiceSelector } from "./BatterPage";

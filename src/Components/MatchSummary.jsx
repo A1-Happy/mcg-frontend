@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
-import { getSelfStats, getOpponentStats } from "./chaserPage";
+import { getSelfStats, getOpponentStats } from "./ChaserPage";
 import AxiosInstance from "./AxiosInstance";
 import { useNavigate } from "react-router-dom";
 

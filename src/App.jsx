@@ -19,7 +19,7 @@ import OTeams from "./Components/OTeams";
 import TossWinner from "./Components/TossWinner";
 import TossLoser from "./Components/TossLoser";
 import PlayerSelector from "./Components/PlayerSelector";
-import ChaserPage from "./Components/chaserPage";
+import ChaserPage from "./Components/ChaserPage";
 
 import { useEffect } from "react";
 import DefenderPage from "./Components/DefenderPage";

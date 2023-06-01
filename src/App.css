@@ -1,0 +1,62 @@
+#root {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.runs-button {
+  margin-right: 10px;
+}
+
+.card2 {
+  background-color: #333;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  transition: box-shadow 0.3s ease;
+}
+
+.card2:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card2-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+.card2-description {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.card2-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 12px 24px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.card2-button:hover {
+  background-color: #0056b3;
+}
+
+.greenball {
+  background-color: darkgreen;
+}
+
+.redball {
+  background-color: darkred;
+}
